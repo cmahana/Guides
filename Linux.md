@@ -1,2 +1,3 @@
 ### Listing help
-'ls -Sahl' Sorts by size full list in human readable form.
+ Sorts by size full list in human readable form:
+'ls -Sahl'
