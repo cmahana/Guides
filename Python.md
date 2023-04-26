@@ -9,6 +9,6 @@ for index in range(len(df)):
 
 *In this example the column name is license and idx represents the index number. *
 
-License = df.iloc[idx]['License']
+<variable> = df.iloc[idx]['License']
 
 ---
