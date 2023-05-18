@@ -21,7 +21,13 @@
   
   ---
   
-  Add users
-> useradd -m <username>             -- add user with home dir
-> chsh -s /bin/bash <username>      -- mod user to use /bin/bash
-> usermod -aG sudo <username>       -- add user to sudo group
+  **Add users**
+  
+| Command | Description |
+| ----------- | ----------- |
+| useradd -m <username>    | add user with home dir |
+| chsh -s /bin/bash <username> | mod user to use /bin/bash |
+| usermod -aG sudo <username>  | add user to sudo group |
+  
+  
+
