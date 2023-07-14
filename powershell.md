@@ -1,3 +1,3 @@
 To use web requests like icanhazip.com, wttr.in and ident.me.
 
-use Invoke-WebRequest -UseBasicParsing -Uri <URL>
+use "Invoke-WebRequest -UseBasicParsing -Uri <URL>"
